@@ -1,7 +1,17 @@
+&nbsp;
 
 # TIC TAC TOE
 
 My first project at general assembly is the game of tic tac toe. It was created using javascript, css and html.
+
+&nbsp;
+
+## Link to live version
+--------------------------------
+
+#### https://george-moon.github.io/TIC-TAC-TOE/
+
+--------------------------------
 
 ## Instructions on how to play
 
