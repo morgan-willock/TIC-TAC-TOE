@@ -9,7 +9,7 @@ My first project at general assembly is the game of tic tac toe. It was created 
 ## Link to live version
 --------------------------------
 
-#### https://george-moon.github.io/TIC-TAC-TOE/
+#### https://morgan-willock.github.io/TIC-TAC-TOE/
 
 --------------------------------
 
@@ -68,7 +68,7 @@ The game was constructed using html, css and javascript. The logic of the gamepl
 
 ## Authors
 
-* **Morgan Willock** - [Git hub - George Moon](https://github.com/george-moon)
+* **Morgan Willock** - [Git hub - Morgan Willock](https://github.com/morgan-willock)
 
 ## Acknowledgments
 
